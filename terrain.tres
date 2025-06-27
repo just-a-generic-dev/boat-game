@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bo1artdvswjrh"]
+
+[resource]
+albedo_color = Color(0.219608, 0.482353, 0.0313726, 1)
+normal_enabled = true
+normal_scale = 5.0
+rim = 0.25
+uv1_scale = Vector3(1, 12, 1)
+grow_amount = -3.42
